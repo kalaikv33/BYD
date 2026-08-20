@@ -1,0 +1,5 @@
+../Core/Src/buzzer.c:14:6:start_buzzer	24	static
+../Core/Src/buzzer.c:26:6:buzzer_task	16	static
+../Core/Src/buzzer.c:60:6:buzzer	16	static
+../Core/Src/buzzer.c:71:6:buzeer_beep	16	static
+../Core/Src/buzzer.c:79:6:buzz_call_50_ms	8	static
